@@ -14,10 +14,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ujjwalacharya365@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ujjwal36512)
 
 ---
 
@@ -33,11 +31,20 @@
 
 ## 🚀 Projects
 
-- **[Your Project Name](https://github.com/ujjwal36512/project-name)**  
-  Brief description of your project and what it does.
+- **[Portfolio](https://github.com/ujjwal36512/Portfolio)**  
+  Personal portfolio website showcasing my projects and skills.
 
-- **[Another Project](https://github.com/ujjwal36512/another-project)**  
-  Description of this project and its features.
+- **[Notes WebApp](https://github.com/ujjwal36512/notes-webapp)**  
+  A web-based notes application for managing and organizing notes.
+
+- **[SQL CRUD Operations](https://github.com/ujjwal36512/sql-crud)**  
+  Database operations project demonstrating CRUD functionality with PHP and SQL.
+
+- **[User Profile](https://github.com/ujjwal36512/user_profile)**  
+  User management system with profile management features.
+
+- **[Core PHP](https://github.com/ujjwal36512/core-php)**  
+  Learning and practicing core PHP concepts and best practices.
 
 ---
 
