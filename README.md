@@ -51,31 +51,14 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwal36512&show_icons=true&theme=dark&hide_border=true)
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwal36512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal36512&theme=tokyonight&hide_border=true&layout=compact)
-  
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwal36512&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ujjwal36512&theme=tokyonight)
 
-### 📈 Stats Overview
-- 🎯 **10** Public Repositories
-- 💻 **Primary Languages**: Python, PHP, JavaScript
-- 🌟 **Focus**: Full-Stack Web Development
-- 📚 **Learning**: Django, Web Development Best Practices
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal36512&layout=compact&theme=dark&hide_border=true)
+
+[![Ujjwal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwal36512&theme=react-dark&hide_border=true)](https://github.com/ujjwal36512)
 
 ---
 
-## 🏆 Achievements
-- ✨ Completed multiple Django & PHP projects
-- 🎓 Continuous learner in web development
-- 🤝 Open to collaboration and freelance projects
-- 💡 Problem solver with passion for clean code
-
----
-
-⭐️ From Ujjwal Acharya
+⭐️ From Ujjwal
