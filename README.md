@@ -51,8 +51,9 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ujjwal36512&show_icons=true&theme=dark&hide_border=true)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=ujjwal36512&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal36512&layout=compact&theme=dark&hide_border=true)
 
