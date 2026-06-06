@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ujjwal36512&theme=tokyonight)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal36512&layout=compact&theme=dark&hide_border=true)
 
