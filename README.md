@@ -48,17 +48,19 @@
 - **[Core PHP](https://github.com/ujjwal36512/core-php)**  
   Learning and practicing core PHP concepts and best practices.
 
-- **[ToDo List](https://github.com/ujjwal36512/ToDo_list)**  
-  Store, edit, and check to-do list application.
+---
 
-- **[Django Learning Project](https://github.com/ujjwal36512/django_learning_project)**  
-  Django project for learning and practice.
+## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ujjwal36512&show_icons=true&theme=dark&hide_border=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ujjwal36512&show_icons=true&theme=light&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal36512&layout=compact&theme=dark&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal36512&layout=compact&theme=light&hide_border=true">
+</picture>
 
 ---
 
-## 📈 My GitHub Activity
-Check out my contributions and projects on my [GitHub profile](https://github.com/ujjwal36512)!
-
----
-
-⭐️ From Ujjwal Acharya
+⭐️ From Ujjwal
